@@ -39,8 +39,8 @@ Task/
 │   │   │   ├── Login.jsx
 │   │   │   └── Profile.jsx
 │   │   ├── components/   # Reusable components
-│   │   │   ├── Navbar.jsx
 │   │   │   └── ProtectedRoute.jsx
+│   │   │  
 │   │   ├── App.jsx
 │   │   └── main.jsx
 │   └── package.json
